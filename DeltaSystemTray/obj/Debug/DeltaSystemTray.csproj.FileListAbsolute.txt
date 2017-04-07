@@ -1,0 +1,39 @@
+c:\users\kieran.holmes\documents\visual studio 2017\Projects\DeltaSystemTray\DeltaSystemTray\bin\Debug\DeltaSystemTray.exe.config
+c:\users\kieran.holmes\documents\visual studio 2017\Projects\DeltaSystemTray\DeltaSystemTray\bin\Debug\DeltaSystemTray.exe
+c:\users\kieran.holmes\documents\visual studio 2017\Projects\DeltaSystemTray\DeltaSystemTray\bin\Debug\DeltaSystemTray.pdb
+c:\users\kieran.holmes\documents\visual studio 2017\Projects\DeltaSystemTray\DeltaSystemTray\obj\Debug\DeltaSystemTray.Properties.Resources.resources
+c:\users\kieran.holmes\documents\visual studio 2017\Projects\DeltaSystemTray\DeltaSystemTray\obj\Debug\DeltaSystemTray.csproj.GenerateResource.Cache
+c:\users\kieran.holmes\documents\visual studio 2017\Projects\DeltaSystemTray\DeltaSystemTray\obj\Debug\DeltaSystemTray.exe
+c:\users\kieran.holmes\documents\visual studio 2017\Projects\DeltaSystemTray\DeltaSystemTray\obj\Debug\DeltaSystemTray.pdb
+C:\Users\kieran.holmes\Documents\GitHub\DeltaSystemTray\DeltaSystemTray\bin\Debug\DeltaSystemTray.exe.config
+C:\Users\kieran.holmes\Documents\GitHub\DeltaSystemTray\DeltaSystemTray\bin\Debug\DeltaSystemTray.exe
+C:\Users\kieran.holmes\Documents\GitHub\DeltaSystemTray\DeltaSystemTray\bin\Debug\DeltaSystemTray.pdb
+C:\Users\kieran.holmes\Documents\GitHub\DeltaSystemTray\DeltaSystemTray\obj\Debug\DeltaSystemTray.csprojResolveAssemblyReference.cache
+C:\Users\kieran.holmes\Documents\GitHub\DeltaSystemTray\DeltaSystemTray\obj\Debug\DeltaSystemTray.Properties.Resources.resources
+C:\Users\kieran.holmes\Documents\GitHub\DeltaSystemTray\DeltaSystemTray\obj\Debug\DeltaSystemTray.Settings.resources
+C:\Users\kieran.holmes\Documents\GitHub\DeltaSystemTray\DeltaSystemTray\obj\Debug\DeltaSystemTray.csproj.GenerateResource.Cache
+C:\Users\kieran.holmes\Documents\GitHub\DeltaSystemTray\DeltaSystemTray\obj\Debug\DeltaSystemTray.exe
+C:\Users\kieran.holmes\Documents\GitHub\DeltaSystemTray\DeltaSystemTray\obj\Debug\DeltaSystemTray.pdb
+C:\Users\kieran.holmes\Downloads\DeltaSystemTray-a0878e062a43a0bd430c82cace79370fc24ceeda\DeltaSystemTray\bin\Debug\DeltaSystemTray.exe.config
+C:\Users\kieran.holmes\Downloads\DeltaSystemTray-a0878e062a43a0bd430c82cace79370fc24ceeda\DeltaSystemTray\bin\Debug\DeltaSystemTray.exe
+C:\Users\kieran.holmes\Downloads\DeltaSystemTray-a0878e062a43a0bd430c82cace79370fc24ceeda\DeltaSystemTray\bin\Debug\DeltaSystemTray.pdb
+C:\Users\kieran.holmes\Downloads\DeltaSystemTray-a0878e062a43a0bd430c82cace79370fc24ceeda\DeltaSystemTray\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\kieran.holmes\Downloads\DeltaSystemTray-a0878e062a43a0bd430c82cace79370fc24ceeda\DeltaSystemTray\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\kieran.holmes\Downloads\DeltaSystemTray-a0878e062a43a0bd430c82cace79370fc24ceeda\DeltaSystemTray\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\kieran.holmes\Downloads\DeltaSystemTray-a0878e062a43a0bd430c82cace79370fc24ceeda\DeltaSystemTray\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\kieran.holmes\Downloads\DeltaSystemTray-a0878e062a43a0bd430c82cace79370fc24ceeda\DeltaSystemTray\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\kieran.holmes\Downloads\DeltaSystemTray-a0878e062a43a0bd430c82cace79370fc24ceeda\DeltaSystemTray\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\kieran.holmes\Downloads\DeltaSystemTray-a0878e062a43a0bd430c82cace79370fc24ceeda\DeltaSystemTray\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\kieran.holmes\Downloads\DeltaSystemTray-a0878e062a43a0bd430c82cace79370fc24ceeda\DeltaSystemTray\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\kieran.holmes\Downloads\DeltaSystemTray-a0878e062a43a0bd430c82cace79370fc24ceeda\DeltaSystemTray\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\kieran.holmes\Downloads\DeltaSystemTray-a0878e062a43a0bd430c82cace79370fc24ceeda\DeltaSystemTray\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\kieran.holmes\Downloads\DeltaSystemTray-a0878e062a43a0bd430c82cace79370fc24ceeda\DeltaSystemTray\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\kieran.holmes\Downloads\DeltaSystemTray-a0878e062a43a0bd430c82cace79370fc24ceeda\DeltaSystemTray\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\kieran.holmes\Downloads\DeltaSystemTray-a0878e062a43a0bd430c82cace79370fc24ceeda\DeltaSystemTray\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\kieran.holmes\Downloads\DeltaSystemTray-a0878e062a43a0bd430c82cace79370fc24ceeda\DeltaSystemTray\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\kieran.holmes\Downloads\DeltaSystemTray-a0878e062a43a0bd430c82cace79370fc24ceeda\DeltaSystemTray\obj\Debug\DeltaSystemTray.csprojResolveAssemblyReference.cache
+C:\Users\kieran.holmes\Downloads\DeltaSystemTray-a0878e062a43a0bd430c82cace79370fc24ceeda\DeltaSystemTray\obj\Debug\DeltaSystemTray.Properties.Resources.resources
+C:\Users\kieran.holmes\Downloads\DeltaSystemTray-a0878e062a43a0bd430c82cace79370fc24ceeda\DeltaSystemTray\obj\Debug\DeltaSystemTray.Settings.resources
+C:\Users\kieran.holmes\Downloads\DeltaSystemTray-a0878e062a43a0bd430c82cace79370fc24ceeda\DeltaSystemTray\obj\Debug\DeltaSystemTray.csproj.GenerateResource.Cache
+C:\Users\kieran.holmes\Downloads\DeltaSystemTray-a0878e062a43a0bd430c82cace79370fc24ceeda\DeltaSystemTray\obj\Debug\DeltaSystemTray.exe
+C:\Users\kieran.holmes\Downloads\DeltaSystemTray-a0878e062a43a0bd430c82cace79370fc24ceeda\DeltaSystemTray\obj\Debug\DeltaSystemTray.pdb
