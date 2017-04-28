@@ -33,13 +33,16 @@
             this.passwordLabel = new System.Windows.Forms.Label();
             this.usernameField = new System.Windows.Forms.TextBox();
             this.passwordField = new System.Windows.Forms.TextBox();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.environmentField = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // connectButton
             // 
-            this.connectButton.Location = new System.Drawing.Point(35, 146);
+            this.connectButton.Location = new System.Drawing.Point(52, 303);
+            this.connectButton.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.connectButton.Name = "connectButton";
-            this.connectButton.Size = new System.Drawing.Size(75, 23);
+            this.connectButton.Size = new System.Drawing.Size(112, 35);
             this.connectButton.TabIndex = 0;
             this.connectButton.Text = "Connect";
             this.connectButton.UseVisualStyleBackColor = true;
@@ -48,49 +51,72 @@
             // usernameLabel
             // 
             this.usernameLabel.AutoSize = true;
-            this.usernameLabel.Location = new System.Drawing.Point(32, 37);
+            this.usernameLabel.Location = new System.Drawing.Point(48, 144);
+            this.usernameLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.usernameLabel.Name = "usernameLabel";
-            this.usernameLabel.Size = new System.Drawing.Size(55, 13);
+            this.usernameLabel.Size = new System.Drawing.Size(83, 20);
             this.usernameLabel.TabIndex = 1;
             this.usernameLabel.Text = "Username";
             // 
             // passwordLabel
             // 
             this.passwordLabel.AutoSize = true;
-            this.passwordLabel.Location = new System.Drawing.Point(32, 93);
+            this.passwordLabel.Location = new System.Drawing.Point(48, 221);
+            this.passwordLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.passwordLabel.Name = "passwordLabel";
-            this.passwordLabel.Size = new System.Drawing.Size(53, 13);
+            this.passwordLabel.Size = new System.Drawing.Size(78, 20);
             this.passwordLabel.TabIndex = 2;
             this.passwordLabel.Text = "Password";
             // 
             // usernameField
             // 
-            this.usernameField.Location = new System.Drawing.Point(35, 53);
+            this.usernameField.Location = new System.Drawing.Point(52, 169);
+            this.usernameField.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.usernameField.Name = "usernameField";
-            this.usernameField.Size = new System.Drawing.Size(215, 20);
+            this.usernameField.Size = new System.Drawing.Size(320, 26);
             this.usernameField.TabIndex = 3;
             // 
             // passwordField
             // 
-            this.passwordField.Location = new System.Drawing.Point(35, 109);
+            this.passwordField.Location = new System.Drawing.Point(52, 246);
+            this.passwordField.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.passwordField.Name = "passwordField";
-            this.passwordField.Size = new System.Drawing.Size(215, 20);
+            this.passwordField.Size = new System.Drawing.Size(320, 26);
             this.passwordField.TabIndex = 4;
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(52, 90);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(320, 26);
+            this.textBox1.TabIndex = 5;
+            // 
+            // environmentField
+            // 
+            this.environmentField.AutoSize = true;
+            this.environmentField.Location = new System.Drawing.Point(48, 67);
+            this.environmentField.Name = "environmentField";
+            this.environmentField.Size = new System.Drawing.Size(202, 20);
+            this.environmentField.TabIndex = 6;
+            this.environmentField.Text = "Dynamics 365 Environment";
             // 
             // Settings
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(684, 461);
+            this.ClientSize = new System.Drawing.Size(1017, 683);
+            this.Controls.Add(this.environmentField);
+            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.passwordField);
             this.Controls.Add(this.usernameField);
             this.Controls.Add(this.passwordLabel);
             this.Controls.Add(this.usernameLabel);
             this.Controls.Add(this.connectButton);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.MaximizeBox = false;
-            this.MaximumSize = new System.Drawing.Size(700, 500);
+            this.MaximumSize = new System.Drawing.Size(1039, 739);
             this.MinimizeBox = false;
-            this.MinimumSize = new System.Drawing.Size(700, 500);
+            this.MinimumSize = new System.Drawing.Size(1039, 739);
             this.Name = "Settings";
             this.ShowIcon = false;
             this.ShowInTaskbar = false;
@@ -109,5 +135,7 @@
         private System.Windows.Forms.Label passwordLabel;
         private System.Windows.Forms.TextBox usernameField;
         private System.Windows.Forms.TextBox passwordField;
+        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.Label environmentField;
     }
 }
