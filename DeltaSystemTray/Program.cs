@@ -33,11 +33,39 @@ namespace DeltaSystemTray
             {
                 Icon = Resources.AppIcon,
                 ContextMenu = new ContextMenu(new MenuItem[] {
+                new MenuItem("Open Cases", ViewCases),
+                new MenuItem("New Case", NewCase),
+                new MenuItem("-"),
                 new MenuItem("Settings", Settings),
+                new MenuItem("-"),
                 new MenuItem("Exit", Exit),
             }),
                 Visible = true
             };
+        }
+
+        void ViewCases(object sender, EventArgs e)
+        {
+            // Show tray icon
+            trayIcon.Visible = true;
+
+            // Find settings window
+            ViewCases ViewCasesWindow = new ViewCases();
+
+            // Launch settings window
+            ViewCasesWindow.Show();
+        }
+
+        void NewCase(object sender, EventArgs e)
+        {
+            // Show tray icon
+            trayIcon.Visible = true;
+
+            // Find settings window
+            NewCase NewCaseWindow = new NewCase();
+
+            // Launch settings window
+            NewCaseWindow.Show();
         }
 
         void Settings(object sender, EventArgs e)
